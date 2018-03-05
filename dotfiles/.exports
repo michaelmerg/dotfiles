@@ -21,3 +21,5 @@ export WORKON_HOME=~/.virtualenvs
 export VIRTUALENVWRAPPER_SCRIPT=/usr/local/bin/virtualenvwrapper.sh
 
 export JAVA_HOME=$(/usr/libexec/java_home)
+
+export PATH=~/.bin:$PATH
