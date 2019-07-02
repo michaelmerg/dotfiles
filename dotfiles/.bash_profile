@@ -26,6 +26,3 @@ bind "set completion-ignore-case on"
 
 # Enable z
 . ~/Code/z/z.sh
-
-# Load virtualenvwrapper
-source /usr/local/bin/virtualenvwrapper_lazy.sh
