@@ -1,4 +1,5 @@
-alias ll="/usr/local/opt/coreutils/libexec/gnubin/ls -AhlFo --color --group-directories-first"
+alias ls="/usr/local/opt/coreutils/libexec/gnubin/ls --color --group-directories-first"
+alias ll="ls -AhlFo"
 
 # Shortcuts
 alias dl="cd ~/Downloads"
@@ -6,7 +7,7 @@ alias dt="cd ~/Desktop"
 alias c="cd ~/Code"
 
 # IP addresses
-alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+alias ip="dig +short -4 myip.opendns.com @resolver1.opendns.com"
 
 # Show/hide hidden files in Finder
 alias show="defaults write com.apple.finder AppleShowAllFiles -bool true && killall Finder"
