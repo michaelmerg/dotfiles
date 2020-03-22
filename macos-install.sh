@@ -4,7 +4,7 @@
 defaults write com.apple.dock autohide-delay -float 0
 
 # Speed up the animation when hiding/showing the Dock
-defaults write com.apple.dock autohide-time-modifier -float 0.1
+defaults write com.apple.dock autohide-time-modifier -float 0.3
 
 # Disable the “Are you sure you want to open this application?” dialog
 defaults write com.apple.LaunchServices LSQuarantine -bool false
