@@ -307,7 +307,7 @@
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
 	<string>-1000 612 799 448 -1200 -474 1200 1897 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-916 859 839 522 -1200 -474 1200 1897 </string>
+	<string>-916 910 580 471 -1200 -474 1200 1897 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>-1082 -171 580 471 -1200 -474 1200 1897 </string>
 	<key>New Bookmarks</key>
@@ -465,16 +465,12 @@
 			<true/>
 			<key>Background Color</key>
 			<dict>
-				<key>Alpha Component</key>
-				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.077263571321964264</real>
-				<key>Color Space</key>
-				<string>sRGB</string>
+				<real>0.074509803921568626</real>
 				<key>Green Component</key>
-				<real>0.077265150845050812</real>
+				<real>0.070588235294117646</real>
 				<key>Red Component</key>
-				<real>0.077262215316295624</real>
+				<real>0.066666666666666666</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -522,29 +518,25 @@
 			<real>0.0</real>
 			<key>Cursor Color</key>
 			<dict>
-				<key>Alpha Component</key>
-				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.87004667520523071</real>
-				<key>Color Space</key>
-				<string>sRGB</string>
+				<real>0.12981389462947845</real>
 				<key>Green Component</key>
-				<real>0.87299817800521851</real>
+				<real>0.74717473983764648</real>
 				<key>Red Component</key>
-				<real>0.86328703165054321</real>
+				<real>0.8895719051361084</real>
 			</dict>
 			<key>Cursor Guide Color</key>
 			<dict>
 				<key>Alpha Component</key>
-				<real>0.078431372549019607</real>
+				<real>0.25</real>
 				<key>Blue Component</key>
-				<real>0.992034912109375</real>
+				<real>1</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.992034912109375</real>
+				<real>0.9268307089805603</real>
 				<key>Red Component</key>
-				<real>0.992034912109375</real>
+				<real>0.70213186740875244</real>
 			</dict>
 			<key>Cursor Text Color</key>
 			<dict>
@@ -941,19 +933,6 @@
 			<false/>
 			<key>Sync Title</key>
 			<false/>
-			<key>Tab Color</key>
-			<dict>
-				<key>Alpha Component</key>
-				<real>1</real>
-				<key>Blue Component</key>
-				<real>0.095458038151264191</real>
-				<key>Color Space</key>
-				<string>sRGB</string>
-				<key>Green Component</key>
-				<real>0.095459811389446259</real>
-				<key>Red Component</key>
-				<real>0.095456503331661224</real>
-			</dict>
 			<key>Tags</key>
 			<array/>
 			<key>Terminal Type</key>
@@ -1004,7 +983,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>78FDB74A-9621-44F9-9870-B4308275BCD3</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>15</integer>
+	<integer>16</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
