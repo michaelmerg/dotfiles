@@ -14,6 +14,8 @@ autoload -Uz compinit && compinit
 export MNML_INSERT_CHAR="$"
 export MNML_PROMPT=(mnml_git mnml_keymap)
 export MNML_RPROMPT=('mnml_cwd 20')
+export MNML_MAGICENTER=()
+export MNML_INFOLN=(mnml_err mnml_uhp)
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
