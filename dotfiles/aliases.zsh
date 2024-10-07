@@ -1,4 +1,4 @@
-alias ls="/usr/local/opt/coreutils/libexec/gnubin/ls --color --group-directories-first"
+alias ls="ls --color"
 alias ll="ls -AhlFo"
 
 # Shortcuts
@@ -19,4 +19,8 @@ alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && k
 
 # Git
 alias gs="git status"
+
+# Misc
+alias remote="rw -r --tmux --tmux_iterm --no_multiplexing mg.c.googlers.com -e 'run-parts /etc/update-motd.d'"
+alias r="remote"
 
